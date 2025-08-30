@@ -24,7 +24,7 @@ const About = () => {
           {t('about')}
         </h1>
         <p className="text-muted-foreground">
-          Climate Credits Kenya - Empowering Smallholder Farmers
+          EcoVision Carbon Flow - Empowering Smallholder Farmers
         </p>
       </div>
 
@@ -194,7 +194,7 @@ const About = () => {
                 Farmers can access basic functionality via USSD for feature phones and areas with limited internet.
               </p>
               <div className="bg-muted/50 p-4 rounded-lg font-mono text-sm">
-                <p>*384*25# - Climate Credits Kenya</p>
+                <p>*384*25# - EcoVision Carbon Flow</p>
                 <p className="mt-2 text-muted-foreground">
                   1. Check my credits<br />
                   2. Log new practice<br />

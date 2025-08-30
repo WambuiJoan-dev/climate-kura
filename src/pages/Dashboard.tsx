@@ -13,7 +13,7 @@ const Dashboard = () => {
           {t('dashboard')}
         </h1>
         <p className="text-muted-foreground">
-          Climate Credits Kenya - Smallholder Carbon Platform
+          EcoVision Carbon Flow - Smallholder Carbon Platform
         </p>
       </div>
 

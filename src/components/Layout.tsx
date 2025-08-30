@@ -52,7 +52,7 @@ const Layout = ({ children }: LayoutProps) => {
           <div className="flex items-center gap-3">
             <Leaf className="h-8 w-8 text-primary" />
             <div>
-              <h1 className="text-xl font-bold text-foreground">Climate Credits Kenya</h1>
+              <h1 className="text-xl font-bold text-foreground">EcoVision Carbon Flow</h1>
               <p className="text-xs text-muted-foreground">Nyeri & Meru Regions</p>
             </div>
           </div>
